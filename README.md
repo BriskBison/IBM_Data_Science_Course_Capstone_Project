@@ -1,1 +1,1 @@
-# IBM_Data_Science_Course_Capstone_Project
+This is my presentation based on the SpaceX mission data study, which I did at the end of the IBM Data Science course
